@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+}
+
+.col{
+    height: 60px;
+    width: 60px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    font-size: 30px;
+    padding-left: 15px ;
+    
+}
+.row{
+    display: flex;
+}
+.grid{
+    margin: 20% 42%;
+
+}
